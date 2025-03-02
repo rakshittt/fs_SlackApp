@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@slack/bolt": "^4.2.1",
+    "dotenv": "^16.4.7",
+    "express": "^5.0.1",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.13.3",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "fs_slackapp",
+  "version": "1.0.0",
+  "description": "This helps to transfer files securely",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakshittt/fs_SlackApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rakshittt/fs_SlackApp/issues"
+  },
+  "homepage": "https://github.com/rakshittt/fs_SlackApp#readme"
+}
